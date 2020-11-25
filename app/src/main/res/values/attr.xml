@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircleIndicatorView">
+        <!--圆半径-->
+        <attr name="indicatorRadius" format="dimension" />
+        <!--画笔宽度，即圆的边距-->
+        <attr name="indicatorBorderWidth" format="dimension" />
+        <!--圆之间的间距-->
+        <attr name="indicatorSpace" format="dimension" />
+        <!--圆未被选择的颜色-->
+        <attr name="indicatorColor" format="color" />
+        <!--圆被选中的颜色-->
+        <attr name="indicatorSelectedColor" format="color" />
+
+    </declare-styleable>
+
+</resources>
